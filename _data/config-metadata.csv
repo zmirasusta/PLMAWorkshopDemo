@@ -1,15 +1,17 @@
 field,display_name,browse_link,external_link
+identifier,Identifier,,
 title,Title,
 creator,Creator,
+custodian,Custodian
 date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+description,Content Description (Event),
+event_type, Event type,true
+no_frames, No. of Frames,,
+condition, Condition Note,,
+language,Language,,
+subject,Subjects (Main Theme),true
+subject_admin, Subject (Administration),true
+subject_person, Subject (Personality/Orgs),true
+subject_place, Subject (Place),true
